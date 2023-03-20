@@ -1,84 +1,38 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+title: Bioinformatika
+role: Bioinformatika is a bioinformatics startup that provides computational
+  solutions for biologically relevant problems
+avatar_filename: logo7.jpg
+bio: Bioinformatics and modeling solutions for all
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: /#contact
+  - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+organizations: []
+education:
+  courses: []
+superuser: true
+user_groups:
+  - https://www.youtube.com/@dr.ahmedmohamedsayed253
+status:
+  icon: ☕️
+last_name: Wu
 highlight_name: true
+first_name: Alice
+email: ahmed.mohamed.sayed@nub.edu.eg
 ---
+Bioinformatika is specialized in providing all bioinformatics and modeling solutions including molecular dynamics (MD) simulations for researchers and pharma companies.
+Our in silico methods (e.g., pharmacophore-based, structural-based virtual screening, and MD simulation) can help our valued customers in their computer-aided drug discovery projects starting from the identification of cryptic or allosteric binding sites in a given protein to the simulation of the drug binding process into its binding site.
+Additionally, these advanced methods can provide our valued customers with crucial information about the time-dependent changes in a protein system, which can contain proteins, DNAs/RNAs, lipids, and other small ligands, allowing for the exploration of events of biological and pharmaceutical importance. Specifically, simulation can be performed to characterize protein flexibility, refine experimentally determined structures, evaluate protein-ligand binding, study biocatalysis or even monitor the protein folding process. 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+B﻿ioinformatika is managed by Dr. Ahmed M. Sayed.
