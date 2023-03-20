@@ -8,16 +8,26 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: ahmedpharma8530@gmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Tb8xhIgAAAAJ&hl=ar
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ahmed-m-sayed-953b8550/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/1v-rNZ3wo0QS0u_-3HI_KIBcsBLNLbXHz/view?usp=share_link
+  - display:
+      header: false
+    icon_pack: fab
+    link: https://www.facebook.com/Bioinformatika010
+    icon: facebook
+  - display:
+      header: false
+    icon_pack: fab
+    link: https://www.youtube.com/@dr.ahmedmohamedsayed253
+    icon: youtube
 organizations: []
 education:
   courses: []
